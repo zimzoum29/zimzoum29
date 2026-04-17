@@ -10,19 +10,16 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on exciting personal projects
+- 🔭 I'm currently working on exciting personal and school projects
 - 🌱 I'm currently learning **new technologies and frameworks**
-- 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about anything tech-related — I'm happy to help!
-- 📫 How to reach me: check my profile for contact info
-- ⚡ Fun fact: I love turning ideas into reality through code
+- 📫 To reach me, add me on my discord : zimzoum
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
