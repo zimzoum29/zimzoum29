@@ -12,22 +12,23 @@
 
 - 🔭 I'm currently working on exciting personal and school projects
 - 🌱 I'm currently learning **new technologies and frameworks**
-- 📫 To reach me, add me on my discord : zimzoum
+- 📫 To reach me, add me on Discord: **zimzoum**
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
+
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-cplusplus?logo=cplusplus)
-![PHP](https://img.shields.io/badge/-php?logo=php)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Frameworks & Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
 
 ---
 
