@@ -2,7 +2,7 @@
 
 # Hey there, I'm zimzoum29! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+learning+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Junior+Developer;Open+Source+Enthusiast;Always+learning+new+things)](https://git.io/typing-svg)
 
 </div>
 
@@ -28,19 +28,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![zimzoum29's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zimzoum29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zimzoum29&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zimzoum29&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
