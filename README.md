@@ -8,6 +8,10 @@
 
 ---
 
+![snake gif](https://github.com/zimzoum29/zimzoum29/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 🚀 About Me
 
 - 🔭 I'm currently working on exciting personal and school projects
