@@ -8,7 +8,14 @@
 
 ---
 
-![snake gif](https://github.com/zimzoum29/zimzoum29/blob/output/github-contribution-grid-snake.svg)
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![snake gif](https://raw.githubusercontent.com/zimzoum29/zimzoum29/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![snake gif](https://raw.githubusercontent.com/zimzoum29/zimzoum29/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+</div>
 
 ---
 
