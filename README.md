@@ -8,17 +8,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![snake gif](https://raw.githubusercontent.com/zimzoum29/zimzoum29/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![snake gif](https://raw.githubusercontent.com/zimzoum29/zimzoum29/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-</div>
-
----
-
 ## 🚀 About Me
 
 - 🔭 I'm currently working on exciting personal and school projects
@@ -40,6 +29,15 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+<div align="center">
+
+![snake gif](https://raw.githubusercontent.com/zimzoum29/zimzoum29/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![snake gif](https://raw.githubusercontent.com/zimzoum29/zimzoum29/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+</div>
 
 ---
 
